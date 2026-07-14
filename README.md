@@ -164,8 +164,7 @@ Smart-Campus-Network/
 │
 ├── Smart_Campus_Network.pkt
 ├── README.md
-└── images/
-    └── topology.png
+└── topology.png
 ```
 
 ---
